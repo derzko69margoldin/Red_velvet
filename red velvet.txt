@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Red Velvet </title>
+</head>
+<body>
+
+<h1 align=center> <font color=red>Что это за группа и как она появилась?</font></h1>
+
+<p align=center><img src=red-velvet.webp  width="600"></p>
+
+<p align=center><b> </font></p>
+<p><img src= width="400" align=le
